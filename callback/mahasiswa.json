@@ -1,0 +1,14 @@
+[
+    {
+        "nama" : "ujang",
+        "umur" : 25,
+        "email" : "ujang.com",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "samsul",
+        "umur":"18",
+        "email": "samsul.com",
+        "idDosenWali": 2
+    }
+]
